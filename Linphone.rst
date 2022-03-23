@@ -33,3 +33,6 @@ Configure
 
 .. image:: images/Signalwire_linphone.png
 
+Be sure to purchase a phone number and point the number to the sip endpoint that was created.
+
+.. image:: images/Signalwire_linphone_sw.png
